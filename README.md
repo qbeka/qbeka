@@ -1,6 +1,8 @@
 # Qendrim Beka
 
-Co-founder at [Koba](https://kobamoney.com). Final-year undergraduate at the University of Alberta.
+Co-founder at [Koba](https://kobamoney.com). 
+
+Final-year undergraduate at the University of Alberta.
 
 Building shared money tools that live in your group chat.
 
